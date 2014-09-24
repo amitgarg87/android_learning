@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+<!--     <string name="title_activity_tip_calculator">Currency Conversion</string> -->
+    <string name="menu_settings">Settings</string>
+
+    <string name="conversion_title_label">From one currency to another currency</string>
+    <string name="one_currency_label">One Currency</string>
+    <string name="one_currency"></string>
+
+    <string name="rate_label">Rate</string>
+    <integer name="rate_seekbar">125</integer>
+    <string name="rate">1.25</string>
+    <string name="rate_us2ca">1.25</string>
+    <string name="rate_ca2us">0.75</string>
+    <string name="rate_cn2us">0.15</string>
+    
+    <string name="second_currency_label">Second Currency</string>
+    <string name="second_currency"></string>
+    
+    <string name="convert_button">Convert</string>
+
+    <string name="conversion_choice_label">Choose Rate:</string>
+    <string-array name="conversion_choices">
+        <item >None</item>
+        <item >US$ to Canada$</item>
+        <item >Canada$ to US$</item>
+        <item >India(rupee) to US$</item>
+    </string-array>
+    
+</resources>
